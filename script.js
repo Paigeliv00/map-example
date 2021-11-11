@@ -38,8 +38,8 @@ function initMap() {
 	    icon: "https://i.imgur.com/3lmYcm8.png"
 	  },
 	 {
-	 	name: "CRED"
-	 	marker: {lat:39.8979868, lng: -80.1873361},
+	 	name: "CRED",
+	 	marker: {lat:39.89812775625734, lng: -80.18624712318804},
 	 	polygon: [
 	 	{ lat: 39.89820789567786, lng: -80.1863954019053 },
 		{ lat: 39.898204677891705, lng:  -80.18609970550332 },
@@ -52,6 +52,188 @@ function initMap() {
 	    color: "#0373fc",
 	    icon: "https://i.imgur.com/3lmYcm8.png"
 	 },
+	 {
+	 	name: "pollock",
+	 	marker: {lat:39.89926640408091, lng:-80.18495627468302},
+	 	polygon: [
+	 	{lat: 39.89933056403454, lng: -80.18516533076999 },
+	 	{lat: 39.89932851343633, lng: -80.18474835381987 },
+	 	{lat:39.899187022010665, lng: -80.18474300796154 },
+	 	{lat: 39.89918907261312, lng: -80.18516800369916 },
+	 	{lat: 39.89933056403454, lng: -80.18516533076999 }
+	 	],
+	 	description:
+	"<div class='modal'><h1 class='descriptionTitle'>Pollock Hall </h1>Pollock Hall is one of the newest girl dormitories at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+
+	 {
+	 	name: "nest",
+	 	marker: {lat:39.89812452839728, lng:-80.18540986024989},
+	 	polygon: [
+	 	{lat: 39.8982031743014, lng: -80.18528256249408},
+		{lat: 39.89803340961704, lng: -80.1852906091205},
+		{lat: 39.89803958288567, lng: -80.18549915085532},
+		{lat: 39.89820883311696, lng: -80.18549512754211},
+		{lat: 39.8982031743014, lng: -80.18528256249408}
+	 	],
+	 	description:
+	"<div class='modal'><h1 class='descriptionTitle'>The Nest</h1>The Nest is the home to Waynesburg Universities apperal! You can find all of your Waynesburg goodies at The Nest. The Nest also has an upstairs portion called Rudy's Place. This is where students can relax, play games with their friends, or watch a football game!</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "stewart",
+	 	marker: {lat:39.89799158211431, lng:-80.1866381288105},
+	 	polygon: [
+	 	{ lat: 39.89820313942542, lng: -80.18674222997413 },
+		{ lat: 39.898196966171525, lng: -80.1864800440406 },
+		{ lat: 39.8977313983387, lng: -80.1864981489516 },
+		{ lat: 39.89773808607581, lng: -80.18675966433287 },
+		{ lat: 39.89820313942542, lng: -80.18674222997413 }
+	 	],
+	 	description:
+	"<div class='modal'><h1 class='descriptionTitle'>Stewart Science Building</h1>The Stewart Science Building contains five floors filled with our STEM majors. Those majors include Biology, Chemistry, Computer Science, Mathematics, and Nursing.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "south",
+	 	marker: {lat: 39.90029590487077, lng:-80.18594059354245},
+	 	polygon: [
+	 	{ lat: 39.90036605487646, lng: -80.18613153937626 },
+  		{ lat: 39.90036296834702, lng: -80.18572786691594 },
+  		{ lat: 39.90022304553257, lng: -80.18572786691594 },
+  		{ lat: 39.90022407437784, lng: -80.18613556268981 },
+  		{ lat: 39.90036605487646, lng: -80.18613153937626 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>South Hall</h1>South Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "east",
+	 	marker: {lat: 39.9003704107525, lng:-80.18552545781621},
+	 	polygon:[
+	 	{ lat: 39.90053787146326, lng: -80.18560984971823 },
+  		{ lat: 39.90053787146326, lng: -80.18542477729457 },
+  		{ lat: 39.900227082463, lng: -80.18542305089767 },
+  		{ lat: 39.90022503189161, lng: -80.1856048100907 },
+  		{ lat: 39.90053787146326, lng: -80.18560984971823 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>East Hall</h1>East Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "west",
+	 	marker: {lat:39.90039524602842, lng:-80.18632716488389},
+	 	polygon:[
+	 	{ lat: 39.900556198377956, lng: -80.1864066888825 },
+  		{ lat: 39.90055312253561, lng: -80.1862209202955 },
+ 		{ lat: 39.900233234177925, lng: -80.18622893908343 },
+  		{ lat: 39.90023425946349, lng: -80.18641337120577 },
+  		{ lat: 39.900556198377956, lng: -80.1864066888825 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>West Hall</h1>West Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "cj",
+	 	marker: {lat:39.90035621544023, lng:-80.18886285726101},
+	 	polygon: [
+	 	{ lat: 39.900381516505455, lng: -80.18875312061515 },
+  		{ lat: 39.90030229555674, lng: -80.18875312061515 },
+  		{ lat: 39.900303838822865, lng: -80.1890005543931 },
+  		{ lat: 39.90038357419121, lng: -80.18899988384086 },
+  		{ lat: 39.900381516505455, lng: -80.18875312061515 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>CSI Center: Waynesburg University</h1>The CSI/CJ house is used for Criminal Justice majors to demonstrate the job field and what many of these students would exeriance out in the field. Students will practice their tactical approach and de-escalation skills with the University's Lasershot Firearms Simulator that is housed within the campus Crime Scene Investigation Center</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "chapel",
+	 	marker: {lat:39.900711702166326, lng:-80.18719607893345},
+	 	polygon:[
+	 	{ lat: 39.90094412190922, lng: -80.18730816171713 },
+    	{ lat: 39.900937434485016, lng:-80.18702518866414  },
+    	{ lat:39.90050687827982 , lng:-80.18703994081373  },
+    	{ lat: 39.90051099364375, lng: -80.18732090220995 },
+    	{ lat: 39.90094412190922, lng: -80.18730816171713 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Roberts Chapel</h1>Waynesburg University offers a weekly Chapel service on Tuesday morning at 11 AM in Roberts Chapel. This is an opportunity for students, faculty, and staff to gather for worship, prayer, and to hear a short message rooted in Scripture.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "wiley",
+	 	marker:{lat:39.893172162547145, lng:-80.18152093664754},
+	 	polygon: [
+	 	 {lat: 39.893166248444665, lng: -80.18163074631076},
+    	{lat: 39.893255252667345, lng: -80.18153753955332},
+    	{lat: 39.8931785958582, lng: -80.18141482849859},
+    	{lat:39.89309062048832, lng: -80.18150803525602},
+    	{lat: 39.893166248444665, lng: -80.18163074631076}
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Wiley Stadium</h1>The 4,000-seat stadium was dedicated in 1998 and constructed for the 1999 season, honoring the school's former head football coach and trustee member. This is where Waynesburg students can come and watch the Yellow Jacket's play!</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "willy",
+	 	marker: {lat:39.89730189538589, lng:-80.186304204843},
+	 	polygon:[
+	 	{ lat: 39.897538998708136, lng: -80.18620531789718 },
+  		{ lat: 39.897541056479255, lng: -80.18638502589995 },
+  		{ lat: 39.89711509654142, lng: -80.18639307252694 },
+  		{ lat: 39.89711509654142, lng: -80.18621604673316 },
+  		{ lat: 39.897538998708136, lng: -80.18620531789718 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Wilison Hall</h1>Wilison Hall is apart of the boys dormitories here at Waynesburg University. It is the newest dormitory made for the males on camapus.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "gpac",
+	 	marker: {lat:39.899921847295396, lng:-80.18788055476979},
+	 	polygon:[
+	 	{ lat: 39.90003, lng: -80.18801},
+    	{ lat: 39.90002, lng: -80.18771},
+    	{ lat: 39.89980, lng: -80.18772},
+    	{ lat: 39.89981, lng: -80.18802},
+    	{ lat: 39.90003, lng: -80.18801}
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Goodwin Performing Arts Center</h1>The Goodwin Performing Arts Center houses the University’s drama and music programs. The 250-seat auditorium is the site of cultural and arts programs for the campus and the community. Students can come here and enjoy the school musicals, plays, and WU's Line.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "fieldhouse",
+	 	marker: {lat:39.89813279928607, lng:-80.18754364510828},
+	 	polygon:[
+	 	{ lat: 39.89822129557472, lng: -80.18785727074538 },
+    	{ lat: 39.89821720506465, lng: -80.18727432259585 },
+    	{ lat: 39.89798540909532, lng: -80.18727609987678 },
+    	{ lat: 39.89798677260331, lng: -80.18785904802633 },
+    	{ lat: 39.89822129557472, lng: -80.18785727074538 }
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Rudy Marisa Fieldhouse</h1>The Rudy Marisa Fieldhouse. Named for former head basketball coach and Director of Athletics Rudy Marisa, this facility houses the Department of Athletics, two gymnasiums, locker rooms, weight room, wrestling room and fitness center. The primary gymnasium, located on the west side of the building, holds a 1,350 seating capacity for basketball, wrestling and volleyball.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+]
 
 	map = new google.maps.Map(document.getElementById("map"), {
 	  center: { lat: 39.8997005, lng: -80.1869912 },
