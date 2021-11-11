@@ -233,6 +233,13 @@ function initMap() {
 	    color: "#0373fc",
 	    icon: "https://i.imgur.com/3lmYcm8.png"
 	 },
+	 {
+	 	name: "stover",
+	 	marker:{lat:39.899919513841404, lng:-80.1861946841492},
+	 	polygon:[
+	 	{lat:}
+	 	]
+	 }
 ]
 
 	map = new google.maps.Map(document.getElementById("map"), {
