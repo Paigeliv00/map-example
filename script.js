@@ -36,8 +36,22 @@ function initMap() {
 	      "<div class='modal'><h1 class='descriptionTitle'>Hanna Hall</h1><p>Hanna Hall houses our Department of Business Administration. Built in 1851, it is the oldest building on campus.</p></div>",
 	    color: "#0373fc",
 	    icon: "https://i.imgur.com/3lmYcm8.png"
-	  }
-	];
+	  },
+	 {
+	 	name: "CRED"
+	 	marker: {lat:39.8979868, lng: -80.1873361},
+	 	polygon: [
+	 	{ lat: 39.89820789567786, lng: -80.1863954019053 },
+		{ lat: 39.898204677891705, lng:  -80.18609970550332 },
+		{ lat: 39.89802287272942, lng:  -80.18610389977852 },
+		{ lat: 39.89802930831865,  lng:  -80.18640588759332 },
+		{ lat: 39.89820789567786, lng: -80.1863954019053 }
+	 	],
+	 	description:
+	"<div class='modal'><h1 class='descriptionTitle'>Center for Research and Economic Development</h1><p>The Center for Research and Economic Development strives to stimulate economic development in southwestern Pennsylvania through scientific research, faculty and staff expertise, resources and partnerships. CRED makes Waynesburg University's facilities and equipment available to area business and organizations.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
 
 	map = new google.maps.Map(document.getElementById("map"), {
 	  center: { lat: 39.8997005, lng: -80.1869912 },
@@ -66,6 +80,15 @@ function initMap() {
         ]
     },
     {
+        "featureType": "landscape.natural.terrain",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "hue": "#ffdc00"
+            }
+        ]
+    },
+    {
         "featureType": "poi",
         "elementType": "all",
         "stylers": [
@@ -75,11 +98,29 @@ function initMap() {
         ]
     },
     {
+        "featureType": "poi",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#b5a7a7"
+            }
+        ]
+    },
+    {
         "featureType": "poi.park",
         "elementType": "geometry",
         "stylers": [
             {
                 "color": "#c5dac6"
+            }
+        ]
+    },
+    {
+        "featureType": "poi.park",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#548060"
             }
         ]
     },
@@ -128,6 +169,15 @@ function initMap() {
         "stylers": [
             {
                 "color": "#fbfaf7"
+            }
+        ]
+    },
+    {
+        "featureType": "road.local",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#7c6a4b"
             }
         ]
     },
