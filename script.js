@@ -19,7 +19,7 @@ function initMap() {
 	    ],
 	    description:
 	      "<div class='modal'><h1 class='descriptionTitle'>Buhl Hall</h1><p>Buhl Hall is home to the Departments of Criminal Justice, Humanities, Engligh & Foreign Languages, and Communication.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "buhl.png"
 	  },
 	  {
@@ -34,12 +34,12 @@ function initMap() {
 	    ],
 	    description:
 	      "<div class='modal'><h1 class='descriptionTitle'>Hanna Hall</h1><p>Hanna Hall houses our Department of Business Administration. Built in 1851, it is the oldest building on campus.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "building.png"
 	  },
 	 {
 	 	name: "CRED",
-	 	marker: {lat:39.89812775625734, lng: -80.18624712318804},
+	 	marker: {lat:39.898052171737376, lng:-80.18626811505975},
 	 	polygon: [
 	 	{ lat: 39.89820789567786, lng: -80.1863954019053 },
 		{ lat: 39.898204677891705, lng:  -80.18609970550332 },
@@ -49,12 +49,12 @@ function initMap() {
 	 	],
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Center for Research and Economic Development</h1><p>The Center for Research and Economic Development strives to stimulate economic development in southwestern Pennsylvania through scientific research, faculty and staff expertise, resources and partnerships. CRED makes Waynesburg University's facilities and equipment available to area business and organizations.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "cred.png"
 	 },
 	 {
 	 	name: "pollock",
-	 	marker: {lat:39.89926640408091, lng:-80.18495627468302},
+	 	marker: {lat:39.89919421667611, lng:-80.18495383260439},
 	 	polygon: [
 	 	{lat: 39.89933056403454, lng: -80.18516533076999 },
 	 	{lat: 39.89932851343633, lng: -80.18474835381987 },
@@ -64,13 +64,13 @@ function initMap() {
 	 	],
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Pollock Hall </h1>Pollock Hall is one of the newest girl dormitories at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "dorms.png"
 	 },
 
 	 {
 	 	name: "nest",
-	 	marker: {lat:39.89812452839728, lng:-80.18540986024989},
+	 	marker: {lat:39.89807149304525, lng: -80.18540950508726},
 	 	polygon: [
 	 	{lat: 39.8982031743014, lng: -80.18528256249408},
 		{lat: 39.89803340961704, lng: -80.1852906091205},
@@ -80,7 +80,7 @@ function initMap() {
 	 	],
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>The Nest</h1>The Nest is the home to Waynesburg Universities apperal! You can find all of your Waynesburg goodies at The Nest. The Nest also has an upstairs portion called Rudy's Place. This is where students can relax, play games with their friends, or watch a football game!</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "nest.png"
 	 },
 	 {
@@ -95,12 +95,12 @@ function initMap() {
 	 	],
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Stewart Science Building</h1>The Stewart Science Building contains five floors filled with our STEM majors. Those majors include Biology, Chemistry, Computer Science, Mathematics, and Nursing.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "https://i.imgur.com/B15YxaT.png"
 	 },
 	 {
 	 	name: "south",
-	 	marker: {lat: 39.90029590487077, lng:-80.18594059354245},
+	 	marker: {lat: 39.90024203031293, lng:-80.18595237254895},
 	 	polygon: [
 	 	{ lat: 39.90036605487646, lng: -80.18613153937626 },
   		{ lat: 39.90036296834702, lng: -80.18572786691594 },
@@ -110,7 +110,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>South Hall</h1>South Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "dorms.png"
 	 },
 	 {
@@ -125,7 +125,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>East Hall</h1>East Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "dorms.png"
 	 },
 	 {
@@ -140,12 +140,12 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>West Hall</h1>West Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "dorms.png"
 	 },
 	 {
 	 	name: "cj",
-	 	marker: {lat:39.90035621544023, lng:-80.18886285726101},
+	 	marker: {lat:39.900317865694284, lng:-80.18890263026236},
 	 	polygon: [
 	 	{ lat: 39.900381516505455, lng: -80.18875312061515 },
   		{ lat: 39.90030229555674, lng: -80.18875312061515 },
@@ -155,7 +155,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>CSI Center: Waynesburg University</h1>The CSI/CJ house is used for Criminal Justice majors to demonstrate the job field and what many of these students would exeriance out in the field. Students will practice their tactical approach and de-escalation skills with the University's Lasershot Firearms Simulator that is housed within the campus Crime Scene Investigation Center</p></div>",
-	    color: "#0373fc",
+	    color: "##b6b6b8",
 	    icon: "building.png"
 	 },
 	 {
@@ -170,7 +170,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Roberts Chapel</h1>Waynesburg University offers a weekly Chapel service on Tuesday morning at 11 AM in Roberts Chapel. This is an opportunity for students, faculty, and staff to gather for worship, prayer, and to hear a short message rooted in Scripture.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "church.png"
 	 },
 	 {
@@ -185,7 +185,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Wiley Stadium</h1>The 4,000-seat stadium was dedicated in 1998 and constructed for the 1999 season, honoring the school's former head football coach and trustee member. This is where Waynesburg students can come and watch the Yellow Jacket's play!</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "wiley.png"
 	 },
 	 {
@@ -200,7 +200,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Wilison Hall</h1>Wilison Hall is apart of the boys dormitories here at Waynesburg University. It is the newest dormitory made for the males on camapus.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "dorms.png"
 	 },
 	 {
@@ -215,12 +215,12 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Goodwin Performing Arts Center</h1>The Goodwin Performing Arts Center houses the University’s drama and music programs. The 250-seat auditorium is the site of cultural and arts programs for the campus and the community. Students can come here and enjoy the school musicals, plays, and WU's Line.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "gpac.png"
 	 },
 	 {
 	 	name: "fieldhouse",
-	 	marker: {lat:39.89813279928607, lng:-80.18754364510828},
+	 	marker: {lat:39.89800606361602, lng:-80.18755939392238},
 	 	polygon:[
 	 	{ lat: 39.89822129557472, lng: -80.18785727074538 },
     	{ lat: 39.89821720506465, lng: -80.18727432259585 },
@@ -230,7 +230,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Rudy Marisa Fieldhouse</h1>The Rudy Marisa Fieldhouse. Named for former head basketball coach and Director of Athletics Rudy Marisa, this facility houses the Department of Athletics, two gymnasiums, locker rooms, weight room, wrestling room and fitness center. The primary gymnasium, located on the west side of the building, holds a 1,350 seating capacity for basketball, wrestling and volleyball.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "wiley.png"
 	 },
 	 {
@@ -249,7 +249,7 @@ function initMap() {
 	 	],
 	 		description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Benedum Cafeteria</h1>The Benedum Cafeteria is where students can get an all you can eat buffet of food. Whether it's good or not, is up to you.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "food.png"
 	 },
 	 {
@@ -268,12 +268,12 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Stover Campus Center</h1>The Stover Campus Center is where students can come and enjoy various meals, a Starbucks drink, or pick up a snack from the student store. Located in Stover is the student activities board, student services, counseling center, residence life, campus ministry office, and the bonner scholars office.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "food.png"
 	 },
 	 {
 	 	name: "miller",
-	 	marker: {lat: 39.899485383641625, lng: -80.18751534224889},
+	 	marker: {lat:39.899396425617795, lng:-80.18751319796316},
 	 	polygon:[
 	 	{lat:39.89956161703845, lng:-80.18779665011526},
 	 	{lat:39.89956058818326, lng:-80.18759146112367},
@@ -295,7 +295,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Miler Hall</h1>Miller Hall is the main administration building of Waynesburg University. This four-story, red brick structure houses administrative offices, Education Department offices and classrooms, two conference rooms, one of which is named for the distinguished alumnus, General Edward Martin, 1901, and the Paul R. Stewart Museum. Miller Hall resides on the National Registry for Historic Places.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "building.png"
 	 },
 	 {
@@ -328,7 +328,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Eberly Library</h1>The Eberly Library is open from 7:30 a.m. to midnight, Monday through Thursday, with reduced hours on the weekends. The library’s physical collection is composed of over 75,000 print books and over 220,000 online books; also available for circulation are 2,200 compact disk sets, and more than 2,000 films on DVD. The library also provides access to full text articles in thousands of journals online. On the third foor of the library is the writing center where students can get help with their writing assignments.</p></div>",
-	    color: "#0373fc",
+	    color: "#b6b6b8",
 	    icon: "library.png"
 	 }
 ]
@@ -356,6 +356,18 @@ function initMap() {
         "stylers": [
             {
                 "color": "#f2e5d4"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "landscape",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#3f9e40"
             }
         ]
     },
@@ -373,7 +385,7 @@ function initMap() {
         "elementType": "all",
         "stylers": [
             {
-                "visibility": "on"
+                "visibility": "off"
             }
         ]
     },
@@ -383,6 +395,15 @@ function initMap() {
         "stylers": [
             {
                 "color": "#b5a7a7"
+            }
+        ]
+    },
+    {
+        "featureType": "poi.park",
+        "elementType": "all",
+        "stylers": [
+            {
+                "visibility": "off"
             }
         ]
     },
@@ -400,7 +421,7 @@ function initMap() {
         "elementType": "geometry.fill",
         "stylers": [
             {
-                "color": "#548060"
+                "color": "#3d773c"
             }
         ]
     },
@@ -457,7 +478,7 @@ function initMap() {
         "elementType": "geometry.fill",
         "stylers": [
             {
-                "color": "#7c6a4b"
+                "color": "#bfa670"
             }
         ]
     },
@@ -470,6 +491,15 @@ function initMap() {
             },
             {
                 "color": "#acbcc9"
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#79d6c3"
             }
         ]
     }
