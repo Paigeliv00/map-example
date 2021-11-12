@@ -234,12 +234,24 @@ function initMap() {
 	    icon: "https://i.imgur.com/3lmYcm8.png"
 	 },
 	 {
-	 	name: "stover",
-	 	marker:{lat:39.899919513841404, lng:-80.1861946841492},
+	 	name: "caf",
+	 	marker:{lat:39.900411348104846, lng: -80.18793376685979},
 	 	polygon:[
-	 	{lat:}
-	 	]
-	 }
+	 	{lat:39.90059175354509, lng:-80.18816030330875},
+	 	{lat: 39.90059175354509, lng:-80.18809744016778},
+	 	{lat:39.900673916303504, lng:-80.18808579884539},
+	 	{lat:39.90067213015761, lng:-80.18796472909241},
+	 	{lat:39.90058460895274, lng:-80.18797171388584},
+	 	{lat:39.90057567821125, lng:-80.18770396347063},
+	 	{lat:39.90019165522661, lng:-80.18773190264439},
+	 	{lat:39.90020594449249, lng:-80.18818125768907},
+	 	{lat:39.90059175354509, lng:-80.18816030330875}
+	 	],
+	 		description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Benedum Cafeteria</h1>The Benedum Cafeteria is where students can get an all you can eat buffet of food. Whether it's good or not, is up to you.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
 ]
 
 	map = new google.maps.Map(document.getElementById("map"), {
