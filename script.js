@@ -20,7 +20,7 @@ function initMap() {
 	    description:
 	      "<div class='modal'><h1 class='descriptionTitle'>Buhl Hall</h1><p>Buhl Hall is home to the Departments of Criminal Justice, Humanities, Engligh & Foreign Languages, and Communication.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "buhl.png"
 	  },
 	  {
 	    name: "hanna",
@@ -35,7 +35,7 @@ function initMap() {
 	    description:
 	      "<div class='modal'><h1 class='descriptionTitle'>Hanna Hall</h1><p>Hanna Hall houses our Department of Business Administration. Built in 1851, it is the oldest building on campus.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "building.png"
 	  },
 	 {
 	 	name: "CRED",
@@ -50,7 +50,7 @@ function initMap() {
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Center for Research and Economic Development</h1><p>The Center for Research and Economic Development strives to stimulate economic development in southwestern Pennsylvania through scientific research, faculty and staff expertise, resources and partnerships. CRED makes Waynesburg University's facilities and equipment available to area business and organizations.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "cred.png"
 	 },
 	 {
 	 	name: "pollock",
@@ -65,7 +65,7 @@ function initMap() {
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Pollock Hall </h1>Pollock Hall is one of the newest girl dormitories at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "dorms.png"
 	 },
 
 	 {
@@ -81,7 +81,7 @@ function initMap() {
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>The Nest</h1>The Nest is the home to Waynesburg Universities apperal! You can find all of your Waynesburg goodies at The Nest. The Nest also has an upstairs portion called Rudy's Place. This is where students can relax, play games with their friends, or watch a football game!</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "nest.png"
 	 },
 	 {
 	 	name: "stewart",
@@ -96,7 +96,7 @@ function initMap() {
 	 	description:
 	"<div class='modal'><h1 class='descriptionTitle'>Stewart Science Building</h1>The Stewart Science Building contains five floors filled with our STEM majors. Those majors include Biology, Chemistry, Computer Science, Mathematics, and Nursing.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "https://i.imgur.com/B15YxaT.png"
 	 },
 	 {
 	 	name: "south",
@@ -111,7 +111,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>South Hall</h1>South Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "dorms.png"
 	 },
 	 {
 	 	name: "east",
@@ -126,7 +126,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>East Hall</h1>East Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "dorms.png"
 	 },
 	 {
 	 	name: "west",
@@ -141,7 +141,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>West Hall</h1>West Hall is apart of the girls dormitories here at Waynesburg University. It is apart of SWEP which stands for South, West, East, Pollock.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "dorms.png"
 	 },
 	 {
 	 	name: "cj",
@@ -156,7 +156,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>CSI Center: Waynesburg University</h1>The CSI/CJ house is used for Criminal Justice majors to demonstrate the job field and what many of these students would exeriance out in the field. Students will practice their tactical approach and de-escalation skills with the University's Lasershot Firearms Simulator that is housed within the campus Crime Scene Investigation Center</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "building.png"
 	 },
 	 {
 	 	name: "chapel",
@@ -171,7 +171,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Roberts Chapel</h1>Waynesburg University offers a weekly Chapel service on Tuesday morning at 11 AM in Roberts Chapel. This is an opportunity for students, faculty, and staff to gather for worship, prayer, and to hear a short message rooted in Scripture.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "church.png"
 	 },
 	 {
 	 	name: "wiley",
@@ -186,7 +186,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Wiley Stadium</h1>The 4,000-seat stadium was dedicated in 1998 and constructed for the 1999 season, honoring the school's former head football coach and trustee member. This is where Waynesburg students can come and watch the Yellow Jacket's play!</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "wiley.png"
 	 },
 	 {
 	 	name: "willy",
@@ -201,7 +201,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Wilison Hall</h1>Wilison Hall is apart of the boys dormitories here at Waynesburg University. It is the newest dormitory made for the males on camapus.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "dorms.png"
 	 },
 	 {
 	 	name: "gpac",
@@ -216,7 +216,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Goodwin Performing Arts Center</h1>The Goodwin Performing Arts Center houses the University’s drama and music programs. The 250-seat auditorium is the site of cultural and arts programs for the campus and the community. Students can come here and enjoy the school musicals, plays, and WU's Line.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "gpac.png"
 	 },
 	 {
 	 	name: "fieldhouse",
@@ -231,7 +231,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Rudy Marisa Fieldhouse</h1>The Rudy Marisa Fieldhouse. Named for former head basketball coach and Director of Athletics Rudy Marisa, this facility houses the Department of Athletics, two gymnasiums, locker rooms, weight room, wrestling room and fitness center. The primary gymnasium, located on the west side of the building, holds a 1,350 seating capacity for basketball, wrestling and volleyball.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "wiley.png"
 	 },
 	 {
 	 	name: "caf",
@@ -250,7 +250,7 @@ function initMap() {
 	 		description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Benedum Cafeteria</h1>The Benedum Cafeteria is where students can get an all you can eat buffet of food. Whether it's good or not, is up to you.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "food.png"
 	 },
 	 {
 	 	name: "stover",
@@ -269,7 +269,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Stover Campus Center</h1>The Stover Campus Center is where students can come and enjoy various meals, a Starbucks drink, or pick up a snack from the student store. Located in Stover is the student activities board, student services, counseling center, residence life, campus ministry office, and the bonner scholars office.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "food.png"
 	 },
 	 {
 	 	name: "miller",
@@ -296,7 +296,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Miler Hall</h1>Miller Hall is the main administration building of Waynesburg University. This four-story, red brick structure houses administrative offices, Education Department offices and classrooms, two conference rooms, one of which is named for the distinguished alumnus, General Edward Martin, 1901, and the Paul R. Stewart Museum. Miller Hall resides on the National Registry for Historic Places.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "building.png"
 	 },
 	 {
 	 	name: "eberly",
@@ -329,7 +329,7 @@ function initMap() {
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>Eberly Library</h1>The Eberly Library is open from 7:30 a.m. to midnight, Monday through Thursday, with reduced hours on the weekends. The library’s physical collection is composed of over 75,000 print books and over 220,000 online books; also available for circulation are 2,200 compact disk sets, and more than 2,000 films on DVD. The library also provides access to full text articles in thousands of journals online. On the third foor of the library is the writing center where students can get help with their writing assignments.</p></div>",
 	    color: "#0373fc",
-	    icon: "https://i.imgur.com/3lmYcm8.png"
+	    icon: "library.png"
 	 }
 ]
 
