@@ -252,6 +252,85 @@ function initMap() {
 	    color: "#0373fc",
 	    icon: "https://i.imgur.com/3lmYcm8.png"
 	 },
+	 {
+	 	name: "stover",
+	 	marker:{lat:39.899890751845604, lng:-80.1862064242841},
+	 	polygon:[
+	 	{lat: 39.89999427537623, lng:-80.18639717039527},
+	 	{lat: 39.899993760951894, lng: -80.18635827836418},
+	 	{lat: 39.90002822737523, lng: -80.18635693725966},
+	 	{lat: 39.900022568709886, lng:-80.18596667584431},
+	 	{lat: 39.89976381287705, lng: -80.18597673412829},
+	 	{lat: 39.899767928285605, lng: -80.18636632499137},
+	 	{lat: 39.89980239482252, lng: -80.18636565443911},
+	 	{lat:39.89980239482252, lng: -80.1864045464702},
+	 	{lat: 39.89999427537623, lng: -80.18639717039527}
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Stover Campus Center</h1>The Stover Campus Center is where students can come and enjoy various meals, a Starbucks drink, or pick up a snack from the student store. Located in Stover is the student activities board, student services, counseling center, residence life, campus ministry office, and the bonner scholars office.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "miller",
+	 	marker: {lat: 39.899485383641625, lng: -80.18751534224889},
+	 	polygon:[
+	 	{lat:39.89956161703845, lng:-80.18779665011526},
+	 	{lat:39.89956058818326, lng:-80.18759146112367},
+	 	{lat: 39.89959505482446, lng: -80.18759079057142},
+	 	{lat: 39.899593511542385, lng: -80.18743790465612},
+	 	{lat: 39.89956161703845, lng: -80.18743790465612},
+	 	{lat: 39.89955955932746, lng:-80.18722869235273},
+	 	{lat: 39.89939957215151, lng:-80.18722869235273},
+	 	{lat:39.89939905772269, lng:-80.18741510588103},
+	 	{lat: 39.89937487956375, lng: -80.18741510588103},
+	 	{lat: 39.89937487956375, lng: -80.18742315250815},
+	 	{lat: 39.899366648699186, lng: -80.1874238230604},
+	 	{lat: 39.89936767755731, lng: -80.18760554272288},
+	 	{lat: 39.89937487956375, lng: -80.18760487217061},
+	 	{lat: 39.89937487956375, lng:-80.18761560100678},
+	 	{lat: 39.8993933990054, lng:-80.18761560100678},
+	 	{lat: 39.89939597114964, lng: -80.1877993323238},
+	 	{lat: 39.89956161703845, lng: -80.18779665011526},
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Miler Hall</h1>Miller Hall is the main administration building of Waynesburg University. This four-story, red brick structure houses administrative offices, Education Department offices and classrooms, two conference rooms, one of which is named for the distinguished alumnus, General Edward Martin, 1901, and the Paul R. Stewart Museum. Miller Hall resides on the National Registry for Historic Places.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 },
+	 {
+	 	name: "eberly",
+	 	marker: {lat: 39.899884578742494, lng: -80.1853534818427},
+	 	polygon:[
+	 	{lat: 39.899922770354294, lng: -80.18553282853959},
+	 	{lat: 39.8999222559294, lng:-80.18550600644919},
+	 	{lat: 39.89994283292212, lng: -80.18550533589693},
+	 	{lat: 39.89994283292212, lng: -80.18549728926982},
+	 	{lat: 39.9000524053043, lng: -80.18549326595624},
+	 	{lat:39.90005034760858,lng: -80.18533702727966},
+	 	{lat: 39.90004417452111, lng: -80.18533635672739},
+	 	{lat: 39.90004160240115, lng: -80.18518950578245},
+	 	{lat: 39.89993923194808, lng: -80.18519285854521},
+	 	{lat: 39.89993768867374, lng: -80.1851861530226},
+	 	{lat: 39.899848178703685, lng: -80.18518816467937},
+	 	{lat: 39.89984658769828, lng: -80.1851625027092},
+	 	{lat: 39.89970049070834, lng: -80.18516786712725},
+	 	{lat: 39.899702548414545, lng: -80.18530600089281},
+	 	{lat: 39.89968402905644, lng: -80.18530600089281},
+	 	{lat: 39.89968505790979, lng: -80.18535025734197},
+	 	{lat: 39.899704606120686, lng: -80.18535025734197},
+	 	{lat: 39.8997071782536, lng: -80.18550381380766},
+	 	{lat: 39.89981932314095, lng: -80.1854997904941},
+	 	{lat: 39.89981932314235, lng: -80.18550783712094},
+	 	{lat:39.89984247229349, lng: -80.18550582546415},
+	 	{lat: 39.89984350114448, lng: -80.18553398865906},
+	 	{lat: 39.899922770354294, lng: -80.18553282853959}
+	 	],
+	 	description:
+	 	"<div class='modal'><h1 class='descriptionTitle'>Eberly Library</h1>The Eberly Library is open from 7:30 a.m. to midnight, Monday through Thursday, with reduced hours on the weekends. The library’s physical collection is composed of over 75,000 print books and over 220,000 online books; also available for circulation are 2,200 compact disk sets, and more than 2,000 films on DVD. The library also provides access to full text articles in thousands of journals online. On the third foor of the library is the writing center where students can get help with their writing assignments.</p></div>",
+	    color: "#0373fc",
+	    icon: "https://i.imgur.com/3lmYcm8.png"
+	 }
 ]
 
 	map = new google.maps.Map(document.getElementById("map"), {
