@@ -18,7 +18,7 @@ function initMap() {
 	      { lat: 39.89950878796206, lng: -80.18564178954172 }
 	    ],
 	    description:
-	      "<div class='modal'><h1 class='descriptionTitle'>Buhl Hall</h1><p>Buhl Hall is home to the Departments of Criminal Justice, Humanities, Engligh & Foreign Languages, and Communication.</p></div>",
+	      "<div class='modal'><h1 class='descriptionTitle'>Buhl Hall</h1><p>Buhl Hall is home to the Departments of Criminal Justice, Humanities, Engligh & Foreign Languages, and Communication. The second floor of Buhl's computer lab is recently turning into a E-Sportd lab!</p></div>",
 	    color: "#b6b6b8",
 	    icon: "buhl.png"
 	  },
@@ -33,7 +33,7 @@ function initMap() {
 	      { lat: 39.899575902129406, lng: -80.18715171790629 }
 	    ],
 	    description:
-	      "<div class='modal'><h1 class='descriptionTitle'>Hanna Hall</h1><p>Hanna Hall houses our Department of Business Administration. Built in 1851, it is the oldest building on campus.</p></div>",
+	      "<div class='modal'><h1 class='descriptionTitle'>Hanna Hall</h1><p>Hanna Hall houses our Department of Business Administration. Built in 1851, it is the oldest building on campus. The building has no elevators, be ready to climb 3 flights of strairs if you are on the top floor.</p></div>",
 	    color: "#b6b6b8",
 	    icon: "building.png"
 	  },
@@ -294,7 +294,7 @@ function initMap() {
 	 	{lat: 39.89956161703845, lng: -80.18779665011526},
 	 	],
 	 	description:
-	 	"<div class='modal'><h1 class='descriptionTitle'>Miler Hall</h1>Miller Hall is the main administration building of Waynesburg University. This four-story, red brick structure houses administrative offices, Education Department offices and classrooms, two conference rooms, one of which is named for the distinguished alumnus, General Edward Martin, 1901, and the Paul R. Stewart Museum. Miller Hall resides on the National Registry for Historic Places.</p></div>",
+	 	"<div class='modal'><h1 class='descriptionTitle'>Miler Hall</h1>Miller Hall is the main administration building of Waynesburg University. This four-story, red brick structure houses administrative offices, Education Department offices and classrooms, two conference rooms, one of which is named for the distinguished alumnus, General Edward Martin, 1901, and the Paul R. Stewart Museum. Miller Hall resides on the National Registry for Historic Places. If you are looking for President Lee, you will find him in Miller Hall!</p></div>",
 	    color: "#b6b6b8",
 	    icon: "building.png"
 	 },
@@ -327,7 +327,7 @@ function initMap() {
 	 	{lat: 39.899922770354294, lng: -80.18553282853959}
 	 	],
 	 	description:
-	 	"<div class='modal'><h1 class='descriptionTitle'>Eberly Library</h1>The Eberly Library is open from 7:30 a.m. to midnight, Monday through Thursday, with reduced hours on the weekends. The library’s physical collection is composed of over 75,000 print books and over 220,000 online books; also available for circulation are 2,200 compact disk sets, and more than 2,000 films on DVD. The library also provides access to full text articles in thousands of journals online. On the third foor of the library is the writing center where students can get help with their writing assignments.</p></div>",
+	 	"<div class='modal'><h1 class='descriptionTitle'>Eberly Library</h1>The Eberly Library is open from 7:30 a.m. to midnight, Monday through Thursday, with reduced hours on the weekends. The library’s physical collection is composed of over 75,000 print books and over 220,000 online books; also available for circulation are 2,200 compact disk sets, and more than 2,000 films on DVD. The library also provides access to full text articles in thousands of journals online. On the third foor of the library is the writing center where students can get help with their writing assignments. The library also offers free prinitng in black and white to all students. Students can also use the library computers to work on Adobe software. </p></div>",
 	    color: "#b6b6b8",
 	    icon: "library.png"
 	 }
