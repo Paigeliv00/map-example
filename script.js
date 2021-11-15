@@ -333,6 +333,9 @@ function initMap() {
 	 }
 ]
 
+
+
+
 	map = new google.maps.Map(document.getElementById("map"), {
 	  center: { lat: 39.8997005, lng: -80.1869912 },
 	  zoom: 18,
@@ -505,6 +508,19 @@ function initMap() {
     }
 ]
 	});
+
+	const imageBounds = {
+   north: 39.902268835358,
+    south: 39.90076973405393,
+    east: -80.18313980811777,
+    west: -80.18610781646667,
+  };
+
+  welcomeOverlay = new google.maps.GroundOverlay(
+    "mainlogo.png",
+    imageBounds
+  );
+  welcomeOverlay.setMap(map);
 
 	Object.keys(locations).forEach(function (location) {
 	  console.log(locations[location].name);
