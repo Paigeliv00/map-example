@@ -155,7 +155,7 @@ function initMap() {
 	 	],
 	 	description:
 	 	"<div class='modal'><h1 class='descriptionTitle'>CSI Center: Waynesburg University</h1>The CSI/CJ house is used for Criminal Justice majors to demonstrate the job field and what many of these students would exeriance out in the field. Students will practice their tactical approach and de-escalation skills with the University's Lasershot Firearms Simulator that is housed within the campus Crime Scene Investigation Center</p></div>",
-	    color: "##b6b6b8",
+	    color: "#b6b6b8",
 	    icon: "building.png"
 	 },
 	 {
